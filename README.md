@@ -93,7 +93,7 @@
   <img align="left" alt="Siddesh Patil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/vastavikgaurav/">
+<a href="https://www.instagram.com/_sp____123/">
   <img align="left" alt="Siddesh Patil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
