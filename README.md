@@ -27,7 +27,7 @@
 <hr>
 </br>
 
-<!-- ## Github Profile View Count:- <img align="right" src="https://profile-counter.glitch.me/Coolasid/count.svg" /> -->
+## Github Profile View Count:- <img align="right" src="https://profile-counter.glitch.me/Coolasid/count.svg" />
 
 </br>
 </br>
