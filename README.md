@@ -11,7 +11,7 @@
 
 </br>
 
-- 🔭 I’m currently working on the clone of Best Buy
+- 🔭 I’m currently working on DSA
 
 - 🌱 I’m currently learning **MERN Stack**
 
