@@ -8,6 +8,9 @@
 
 
 ## 🙋‍♂️ About Me
+<h3>- <i>Aspiring full stack web developer with excellent problem-solving skills. Able toperform well in a team. Passionate about coding and equipped with a diverse andpromising skill-set with a special emphasis on CSS. Able to see things from variouspoints of view and able to understand and follow instructions.</i></h3>
+
+
 
 </br>
 
