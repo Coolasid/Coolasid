@@ -3,13 +3,14 @@
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Siddesh;Full+stack+web+developer...)](https://git.io/typing-svg)
  
+ <h3>- <i>Aspiring full stack web developer with excellent problem-solving skills. Able toperform well in a team. Passionate about coding and equipped with a diverse andpromising skill-set with a special emphasis on CSS. Able to see things from variouspoints of view and able to understand and follow instructions.</i></h3>
+
+ 
 
 <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right" width="50%" />
 
 
 ## 🙋‍♂️ About Me
-<h3>- <i>Aspiring full stack web developer with excellent problem-solving skills. Able toperform well in a team. Passionate about coding and equipped with a diverse andpromising skill-set with a special emphasis on CSS. Able to see things from variouspoints of view and able to understand and follow instructions.</i></h3>
-
 
 
 </br>
