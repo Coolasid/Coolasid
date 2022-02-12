@@ -70,8 +70,7 @@
 
 ## 📊 My Github Stats
 
-![Coolasid GitHub stats](<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Coolasid&show_icons=true&hide_border=true&theme=radical" />
-  ) 
+![Coolasid GitHub stats](https://github-readme-stats.vercel.app/api?username=Coolasid&show_icons=true&theme=radical) 
 
 </br>
 
