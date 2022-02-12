@@ -39,6 +39,9 @@
 <a href="https://github.com/Coolasid/Cult-Fit-U3-CW-Project-2" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Cult Fit&color=000000&logo=Cult Fit&logoColor=FFFFFF&label=" alt="Cult Fit"/></a>
 </p>
 
+</br>
+</br>
+
 ## Github Profile View Count:- <img align="right" src="https://profile-counter.glitch.me/Coolasid/count.svg" />
 
 </br>
