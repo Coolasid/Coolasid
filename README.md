@@ -31,12 +31,12 @@
 <hr>
 </br>
 
-### Interested on my top projects?
+## Interested on my top projects?
 
 <p>
 <a href="https://github.com/Coolasid/PantaloonsWebsite-U2-CW-Project-1" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pantaloons&color=01AA8B&logo=pantaloons&logoColor=FFFFFF&label=" alt="pantaloons"/></a>
-<a href="https://github.com/taherahmed14/Groww_Full-Stack_Project" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Groww&color=00d09c&logo=GoldenLine&logoColor=FFFFFF&label=" alt="Groww" /></a>
-<a href="https://github.com/taherahmed14/adidas-Front-end-project" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="adidas"/></a>
+<a href="https://github.com/Coolasid/Best-Buy-U3-CW-Project-3" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Best Buy&color=2540A1&logo=GoldenLine&logoColor=FFFFFF&label=" alt="Best Buy" /></a>
+<a href="https://github.com/Coolasid/Cult-Fit-U3-CW-Project-2" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Cult Fit&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="Cult Fit"/></a>
 </p>
 
 ## Github Profile View Count:- <img align="right" src="https://profile-counter.glitch.me/Coolasid/count.svg" />
