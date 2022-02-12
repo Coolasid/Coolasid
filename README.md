@@ -70,7 +70,7 @@
 
 ## 📊 My Github Stats
 
-![Coolasid GitHub stats](https://github-readme-stats.vercel.app/api?username=Coolasid&show_icons=true&theme=radical) 
+![Coolasid GitHub stats](https://github-readme-stats.vercel.app/api?username=Coolasid&show_icons=true&theme=graywhite) 
 
 </br>
 
