@@ -32,6 +32,26 @@
 </br>
 </br>
 
+## Connect with me:-
+<p align="left">
+
+<a href="https://twitter.com/Coolasid">
+  <img align="left" alt="Siddesh Patil" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+ 
+<a href="https://www.linkedin.com/in/siddesh-patil-922759218/">
+  <img align="left" alt="Siddesh Patil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://www.instagram.com/_sp____123/">
+  <img align="left" alt="Siddesh Patil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+
+<br />
+<br />
+<br />                                                                                                                     
+
 ## Interested on my top projects?
 
 <p>
@@ -98,24 +118,7 @@
 <br/>
 <br/>
 
-## Connect with me:-
-<p align="left">
 
-<a href="https://twitter.com/Coolasid">
-  <img align="left" alt="Siddesh Patil" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
- 
-<a href="https://www.linkedin.com/in/siddesh-patil-922759218/">
-  <img align="left" alt="Siddesh Patil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://www.instagram.com/_sp____123/">
-  <img align="left" alt="Siddesh Patil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-
-<br />
-<br />
 
 </p>
 
