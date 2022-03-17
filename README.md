@@ -58,6 +58,7 @@
 <a href="https://pantaloons-heroku.herokuapp.com/pages/homePage.html" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pantaloons&color=01AA8B&logo=pantaloons&logoColor=FFFFFF&label=" alt="pantaloons"/></a>
 <a href="https://best-buy-sidpatil.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Best Buy&color=2540A1&logoColor=FFFFFF&label=" alt="Best Buy" /></a>
 <a href="https://clone-cult-fit.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Cult Fit&color=000000&logo=Cult Fit&logoColor=FFFFFF&label=" alt="Cult Fit"/></a>
+<a href="https://house-marketplace-app-indol.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=House Marketplace&color=00CC66&logo=house marketplace&logoColor=00CC66&label=" alt="house marketplace"/></a>
 </p>
 
 </br>
