@@ -15,7 +15,7 @@
 
 </br>
 
-- 🔭 I’m currently working **MERN Stack**
+- 🔭 I’m currently working on **MERN Stack** project.
 
 - 🌱 I’m currently learning **Nextjs**
 
