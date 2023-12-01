@@ -15,11 +15,9 @@
 
 </br>
 
-- 🔭 I’m currently working on DSA
+- 🔭 I’m currently working **MERN Stack**
 
-- 🌱 I’m currently learning **MERN Stack**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🌱 I’m currently learning **Nextjs**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://gpportfolio1.vercel.app/)** -->
 
