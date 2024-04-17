@@ -3,7 +3,10 @@
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Siddesh;Full+stack+web+developer...)](https://git.io/typing-svg)
  
- <p>- <i>Aspiring full stack web developer with excellent problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set with a special emphasis on CSS. Able to see things from various points of view and able to understand and follow instructions.</i></p>
+ <p>- <i>Full-stack developer with a goal to learn and grow in a tech environment.
+Energetic and ambitious professional who has developed a mature and
+responsible approach to any task that is allocated. Looking for challenging
+opportunities to leverage and hone skills.</i></p>
 
  
 
